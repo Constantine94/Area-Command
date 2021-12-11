@@ -10,5 +10,5 @@
 # Info
 - Area-Command e un script conceput pentru a executa comenzi la anumite coordonate prestabilite de catre jucator. 
 
-# b-hood-pin-bruteforce
+# Area-Command
 ![alt text](https://raw.githubusercontent.com/Constantine94/Area-Command/main/area-command.png)
