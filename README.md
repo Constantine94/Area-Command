@@ -15,4 +15,4 @@ Se activeaza de pe tasta F2
 - Bot-ul se reconecteaza la fiecare `connection lost`.
 
 # b-hood-pin-bruteforce
-![alt text](https://github.com/Constantine94/b-hood-pin-bruteforce/blob/main/pin.png)
+![alt text](https://raw.githubusercontent.com/Constantine94/Area-Command/main/area-command.png)
