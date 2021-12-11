@@ -4,8 +4,8 @@
 3. Restul file-urilor (https://github.com/Constantine94/Area-Command/archive/refs/heads/main.zip) de pe github se adauga in folderul `moonloader` al jocului.
 
 # Activare
-La intrarea in joc se apasa Ctrl-stanga si R simultan pentru a restarta script-ul.
-Se activeaza de pe tasta F2.
+- La intrarea in joc se apasa Ctrl-stanga si R simultan pentru a restarta script-ul.
+- Se activeaza de pe tasta F2.
 
 # Info
 - Area-Command e un script conceput pentru a executa comenzi la anumite coordonate prestabilite de catre jucator. 
